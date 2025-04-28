@@ -1,0 +1,11 @@
+/ (root)
+|-- README.md
+|-- SKRIPSI/
+|   |-- SKSRIPSI_HALAMAN_FULL.pdf
+|-- DATA/
+|   |-- data_eksperimen_pvsyst.xlsx
+|   |-- grafik_output.png
+|-- CODE/
+|   |-- analisis_regresi.ipynb
+|   |-- tools_pvsyst/
+|-- LICENSE
